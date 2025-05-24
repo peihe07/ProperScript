@@ -8,7 +8,8 @@
 
 ## 下載
 
-### [點此下載 v1.0]
+### [點此下載 ProperScript-Regular.ttf](https://github.com/peiyuhsu/ProperScript/raw/main/ProperScript-Regular.ttf)
+
 ### 更新紀錄
 - 2025/05/24 中規中矩體v1.0正式釋出。
 
