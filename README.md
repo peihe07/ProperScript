@@ -1,6 +1,6 @@
 # 中規中矩體── 沒有好看，沒有難看，中規中矩
 
-![中規中矩體.png](Untitled%201fd150d6e0fd8004aff5f1d7ce6e60f2/%E4%B8%AD%E8%A6%8F%E4%B8%AD%E7%9F%A9%E9%AB%94.png)
+![中規中矩體](https://github.com/user-attachments/assets/6ff75585-7356-426b-bbef-402a21f7dd99)
 
 我喜歡寫字，想了好幾年終於動手自己做，會叫「中規中矩體」是因為我認為自己的字跡在沒有很好看也沒有很難看的範圍內，我想就真的是中規中矩吧。
 
@@ -16,13 +16,13 @@
 
 ## 應用範例
 
-![GrrgO_OXIAAFYEO.jpeg](Untitled%201fd150d6e0fd8004aff5f1d7ce6e60f2/GrrgO_OXIAAFYEO.jpeg)
+![GrrgO_OXIAAFYEO](https://github.com/user-attachments/assets/a98d77a5-221b-4844-827d-18956417cb94)
 
 ## **製作故事**
 
 寫字做字體的期間，我看了大量的電影、影集以及紀錄片，需要詳細列出可以私訊我（咦？），本來因為看很多的恐怖片，想把字體名稱叫做「懼體」，總之推薦《安道爾》（？？）。
 
-![安道爾.jpg](Untitled%201fd150d6e0fd8004aff5f1d7ce6e60f2/%E5%AE%89%E9%81%93%E7%88%BE.jpg)
+![安道爾](https://github.com/user-attachments/assets/b85fdab9-0156-43c1-b42d-4f5375f57f2b)
 
 ## 授權
 
