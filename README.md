@@ -8,10 +8,8 @@
 
 ## 下載
 
-### [[點此下載 v1.0]](https://github.com/Chenyu-otf/chenyuluoyan_thin/releases/download/v1.0-monospaced/ChenYuluoyan-Thin-Monospaced.ttf)
-
+### [點此下載 v1.0]
 ### 更新紀錄
-
 - 2025/05/24 中規中矩體v1.0正式釋出。
 
 ## 應用範例
