@@ -10,6 +10,49 @@
 
 ### [點此下載 v1.0](https://github.com/peiyuhsu/ProperScript/raw/main/ProperScript-Regular.ttf)
 
+## 🛠️ 製作輔助工具
+
+為了有效製作這套字體，我開發了一系列前端工具與腳本來進行字符排版與預覽，協助字型切割與字符對位。
+
+### 字集模板生成器（通用分頁 HTML）
+- 功能：將字集文字檔自動排版成 A4 字網格模板，可選擇每頁字數、分割檔案、位置樣式（左上 / 居中）
+- 技術：JavaScript + HTML5 前端工具
+- 特色程式碼：
+```js
+function getUnicodeFromName(name) {
+    if (name.startsWith('uni')) {
+        const hex = name.substring(3);
+        return String.fromCodePoint(parseInt(hex, 16));
+    }
+    // ...
+}
+```
+
+### 特殊符號模板生成器
+- 功能：支援手動輸入 U+XXXX 編碼或上傳 txt，快速生成特殊符號網格
+- 用途：測試標點與符號集的對齊情形
+
+### 台語拼音模板生成器
+- 功能：針對台羅拼音常用字元提供快速預覽與排版下載功能
+- 使用場景：台語拼音支援測試
+
+### 日文垂直變體模板生成器
+- 功能：比較日文字元在水平與垂直模式下的顯示差異，支援垂直模式切換
+- 程式碼片段：
+```js
+.writing-mode: vertical-rl;
+.text-orientation: upright;
+```
+### Python 切割字符腳本
+- 功能：將命名後的 .png 字符圖自動對應為 Unicode 檔名
+- 檔案：`切割字符.py`
+```python
+from fontTools.pens.boundsPen import ControlBoundsPen
+pen = ControlBoundsPen(font.getGlyphSet())
+```
+
+這些工具讓我能更有效率地規劃、臨摹與切割超過 7000 個字元，實現個人字體專案的自動化與結構化。
+
 ### 更新紀錄
 - 2025/05/24 中規中矩體v1.0正式釋出。
 
